@@ -78,9 +78,9 @@ This project was created by Fernando Magallon-Romero for MIS 695 (Strategic Prog
 It simulates a Smart Parking Management System by combining two datasets - LADOT Parking Meter Occupancy and IIoT Smart Parking - and visualizing real-time availability using Folium (interactive web mapping).
 
 The system assigns parking spaces to SDSU parking structures and indicates whether each spot is:
-  🟢 Available
-  🔴 Occupied
-  ⛔ Reserved (demo functionality)
+  - 🟢 Available
+  - 🔴 Occupied
+  - ⛔ Reserved (demo functionality)
 
 The result is displayed in an interactive HTML map with:
   - Popup reservation buttons
