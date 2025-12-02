@@ -38,4 +38,29 @@ README.md
 
 ---
 
-## 
+## Datasets Used 
+
+### 1. LADOT Parking Meter Occupancy 
+Fields include:
+- `SpaceID`
+- `EventTime_UTC`
+- `OccupancyState` (VACANT / OCCUPIED)
+
+### 2. IoT Smart Parking Management Dataset (Simulated)
+Fields include:
+- `Parking_Spot_ID`
+- `Sensor_Reading_Proximity` (0 = vacant, 1 = occupied)
+- `Timestamp`
+
+---
+
+## How to run 
+
+### **1. Install Dependencies**
+pip install pandas folium 
+
+### **2. Run Script**
+python smart_parking_map.py 
+
+### **3. View Output**
+SmartParkingMap.html
