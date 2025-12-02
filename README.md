@@ -93,7 +93,7 @@ The result is displayed in an interactive HTML map with:
 ## Installation
 Requires Python ≥ 3.8
 Install dependencies:
-  - 'pip install pandas folium'
+  - `pip install pandas folium`
 Ensure the two input CSV files are located in the same folder as smart_parking_map.py:
   - LADOT_Parking_Meter_Occupancy.csv
   - IIoT_Smart_Parking_Management.csv
@@ -116,8 +116,8 @@ The main code file for this project is smart_parking_map.py. It is responsible f
 
 ## Running the Code
 To run this project, once all files are downloaded, from the project root directory run:
-  - 'pip install pandas folium'
-  - 'python smart_parking_map.py'
+  - `pip install pandas folium`
+  - `python smart_parking_map.py`
 It will then download a file named SmartParkingMap.html, you will open this to view the interactive map in any browser
 
 ## Deployment
