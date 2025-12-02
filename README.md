@@ -54,7 +54,7 @@ Fields include:
 
 ---
 
-## How to run 
+## How to Run 
 
 ### **1. Install Dependencies**
 pip install pandas folium 
