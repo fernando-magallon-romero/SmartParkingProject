@@ -65,7 +65,10 @@ python smart_parking_map.py
 ### **3. View Output**
 SmartParkingMap.html
 
-
+---
+---
+---
+Below is what I added: fernandoMR 
 
 Team Member List:
 1. Fernando Magallon-Romero
