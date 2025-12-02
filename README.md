@@ -1,7 +1,6 @@
 # Smart Parking IoT Simulation – SDSU Parking MVP
 This project demonstrates a simulated Smart Parking system designed for SDSU parking garages.  
 Due to real sensor and infrastructure limitations, this MVP uses Python, Folium, and **sample datasets** to visualize parking availability on an interactive map. 
-A Figma UI prototype accompanies the system to demonstrate what a full SDSU-facing app could look like.
 
 The goal of this project is to show how IoT technologies, real-time sensors, and mapped data can improve parking efficiency, reduce student, staff, decrease congestion on campus and faculty frustration.
 
