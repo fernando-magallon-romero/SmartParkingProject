@@ -42,7 +42,7 @@ The main code file for this project is `smart_parking_map.py`. It is responsible
   - Adding capacity calculations and overlays
 
 ## Running the Code
-To run this project, once all files are downloaded, go to the project root directory then run:
+To run this project, once all files are downloaded, go to the project root directory (`cd SmartParkingProject`) then run:
   - `pip install pandas folium`
   - `python smart_parking_map.py`
 
